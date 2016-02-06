@@ -11,4 +11,4 @@ The menu uses a simple html list of elements styled as a horizontal list of opti
 
 ## Responsivity
 
-The menu has been *built to allow any screen size/device* without changes on the styling. This is based on a mask that hide the overflowed list of elements. No more dropdown menus for mobiles.
+The menu has been **built to allow any screen size/device** without changes on the styling. This is based on a mask that hide the overflowed list of elements. No more dropdown menus for mobiles.
